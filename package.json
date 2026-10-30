@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "agrisuivi",
   "version": "1.0.0",
   "description": "Tableau de bord en ligne de commande pour une coopérative agricole",
@@ -14,5 +15,10 @@
     "test:donnees": "node --test test/donnees.test.js",
     "test:rapport": "node --test test/rapport.test.js",
     "test:station": "node --test test/station.test.js"
+=======
+  "dependencies": {
+    "all": "^0.0.0",
+    "prompt-sync": "^4.2.0"
+>>>>>>> 327649079272aa03d9de7db680cb0e75479557e7
   }
 }
